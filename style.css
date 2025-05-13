@@ -1,0 +1,55 @@
+/* General Page Styling */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  /* Header */
+  header {
+    background-color: #5a2ea6;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  /* Main Content */
+  main {
+    padding: 2rem;
+  }
+  
+  section {
+    margin-bottom: 2rem;
+  }
+  
+  button {
+    margin: 0.5rem;
+    padding: 0.6rem 1rem;
+    background-color: #5a2ea6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #7e4de3;
+  }
+  
+  /* List Styling */
+  ul {
+    list-style-type: square;
+    padding-left: 1.5rem;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #eee;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    margin-top: 2rem;
+  }
+  
